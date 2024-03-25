@@ -1,0 +1,46 @@
+.map{
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 60px;
+    border-radius: 8px;
+    
+}
+.datas{
+    display: block;
+    margin-top: 30px;
+}
+.address{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid black;
+
+}
+.address img{
+    width: 50px;
+    height: 50px;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid black;
+}contact img{
+    width: 50px;
+    height: 50px;
+}
+
+.gmail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid black;
+}
+.gmail img{
+    width: 50px;
+    height: 50px;
+}

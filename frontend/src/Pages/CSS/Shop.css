@@ -1,0 +1,5 @@
+@media(max-1000px){
+    .shop hr{
+        display: none;
+    }
+}

@@ -1,0 +1,81 @@
+.data {
+    width: 85%;
+    height: 120vh;
+    display: flex;
+    margin: auto;
+    padding: 0px 30px;
+    margin-top: 50px;
+
+    margin-bottom: 20px;
+    background: wheat
+}
+
+.heading h2 {
+    text-align: center;
+}
+
+.heading p {
+    text-align: center;
+}
+
+.heading h3 {
+    text-align: center;
+}
+
+.team-members {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 50%;
+    border-radius: 10px;
+    height: 94vh;
+}
+
+.team-member {
+    padding-left: 15px;
+    display: block;
+    margin-top: 10px;
+}
+.team-member h4 {
+    display: flex;
+    text-align: center;
+    background-color: gray;
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 7px;
+    border: 1px solid brown;
+
+}
+.team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.rightside{
+    width: 50%;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    text-align: center;
+}
+.right{
+    gap: 30px;
+
+}
+.rightside p{
+    font-size: 12px;
+    background-color: rgb(50, 46, 46);
+    color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+}
+.btn{
+    margin-top: 10px;
+    font-size: 15px;
+}
